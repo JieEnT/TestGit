@@ -1,8 +1,4 @@
 jie en was here
 Jie en is now gone
 Jie en is back
-<<<<<<< HEAD
-hello
-=======
 faruq was here
->>>>>>> 09aebb218336ce77336bb3d59c910225951ce30c
